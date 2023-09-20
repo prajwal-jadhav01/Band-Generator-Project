@@ -39,4 +39,4 @@ This project is a simple band name generator. It randomly selects band names fro
 Feel free to customize the list of band names by editing the array defined in index.js file in the project directory. Add your own band names to make it even more personalized.
 
 Enjoy coming up with cool band names!
-```
+
